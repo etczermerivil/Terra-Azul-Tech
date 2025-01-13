@@ -1,0 +1,10 @@
+.profile-icon-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+
+  .profile-icon-button svg {
+    color: whitesmoke;
+    font-size: 1.5em;
+  }
